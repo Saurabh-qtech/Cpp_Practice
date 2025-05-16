@@ -13,4 +13,4 @@ This repo serves as:
 
 ## Disclaimer
 These are **entirely my own work** and are provided here for **educational and reference purposes only**.
-- **Do not** copy or submit this code as your own in any coursework, certification, or academic setting.
+**Do not** copy or submit this code as your own in any coursework, certification, or academic setting.
